@@ -39,7 +39,6 @@ apis:
   - name: Graph Countries
     description: "Country-related data like currencies, languages, flags, regions+subregions and bordering countries"
     humanURL: https://github.com/lennertVanSever/graphcountries
-    baseURL: https://github.com/lennertVanSever/graphcountries
     tags:
       - Geocoding
     properties:
